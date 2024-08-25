@@ -1,4 +1,4 @@
-package com.zalopay.todolist.model;
+package com.anduckhmt146.todolist.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

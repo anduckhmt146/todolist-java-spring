@@ -1,7 +1,7 @@
-package com.zalopay.todolist.service;
+package com.anduckhmt146.todolist.service;
 
-import com.zalopay.todolist.model.Todo;
-import com.zalopay.todolist.repository.TodoRepository;
+import com.anduckhmt146.todolist.model.Todo;
+import com.anduckhmt146.todolist.repository.TodoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
